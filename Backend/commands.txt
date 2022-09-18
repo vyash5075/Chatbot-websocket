@@ -1,0 +1,11 @@
+npm init
+npm i express socket.io cors
+node index.js -> to start server
+npm i nodemon
+
+
+FE
+npm i socket.io-client
+npm i react-moment
+npm i moment
+npm i react-router-dom
